@@ -36,8 +36,8 @@ String createPostBody(camera_fb_t *fb);
 // ===========================
 // Enter WiFi credentials
 // ===========================
-const char *ssid = "Jasleen";
-const char *password = "jaslin1173";
+const char *ssid = "";
+const char *password = "";
 
 WiFiClient client;
 
